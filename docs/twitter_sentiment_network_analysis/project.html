@@ -1,0 +1,64 @@
+
+<!doctype html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Twitter Sentiment and Network Analysis</title>
+	<link rel="stylesheet" media="screen" href="style.css">
+	
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta name="robots" content="all" />
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta http-equiv="imagetoolbar" content="false" />	
+
+	<script type="text/javascript"> var domain = document.location.host;</script>
+</head>	
+    <style>
+body  {
+    background-position: right top, right bottom;
+    background-size: 450px 450px;
+    background-color: #cccccc;
+}
+</style>
+<body>
+
+
+
+<!-- swap out for information about yourself -->
+<div id="about">
+	<p><font size = "45" color="black"><strong>Twitter Sentiment and Network Analysis</strong> </font> </p> 
+</div>
+<body>
+    <p><font size = "5" color = "black">The 2016 U.S. Presidential Election was an election heavily discussed on social media. With the rapid emergence of social media in the past decade, online users have easier and easier access to publicly display their opinions. On a subject matter like this, social media is second to none when it comes to examining public sentiments toward the two presidential candidates and the election outcome.Thus, the objectives are to quantitatively measure and examine reactions on 2016 Election from social media and to comparesuch reactions before and after the election result. The social media of choice is Twitter, since it is the most commonly used social media platform for brief comments. My approach is to use Twitter API to scrape tweets on 3 different hash-tags: #Election, #Hillary and #Trump, before and after the election night of November 8th, 2016. This would produce a total of 6 different datasets and graphs. 
+    </font></p>
+</body>
+<body>
+    <p><font size = "5" color = "black">
+    In the graphs, each node represents a twitter user and each edge represents a retweet from the source node (the user who retweets) to the destination node (the author of the original tweet) where the destination node is usually larger because the size of the node is proportional to how many times its tweets have been retweeted. Each tweet (along with its source node) is colored based on its sentiment score, evaluated by NLTK (I have included a legend for the sentiment score color mapping in the write-up analysis in the bottom). Please click on each of the links below to see the interactive graph demo.</font></p>
+</body>
+<body>
+
+        <div id="navigation">
+            <a href="https://github.com/BrandonLiang/Twitter_Sentiment_Network_Analysis_2016Election" target="info"><span><font size="30" color="purple">Data on Github<br></font></span></a>
+
+            <a href="/docs/twitter_sentiment_network_analysis/Election_Before.html" target="info" font="20"><span><font size="30" color="red">Tweets on #Election before Election<br></font></span></a> 
+            <a href="/docs/twitter_sentiment_network_analysis/Election_After.html" target="info"><span><font size="30" color="green">Tweets on #Election after Election<br></font></span></a> 
+            <a href="/docs/twitter_sentiment_network_analysis/Trump_Before.html" target="info"><span><font size="30" color="blue">Tweets on #Trump before Election<br></font></span></a>
+            <a href="/docs/twitter_sentiment_network_analysis/Trump_After.html" target="info"><span><font size="30" color="brown">Tweets on #Trump after Election<br></font></span></a>
+            <a href="/docs/twitter_sentiment_network_analysis/Hillary_Before.html" target="info"><span><font size="30" color="purple">Tweets on #Hillary before Election<br></font></span></a>
+            <a href="/docs/twitter_sentiment_network_analysis/Hillary_After.html" target="info"><span><font size="30" color="orange">Tweets on #Hillary after Election<br></font></span></a>
+            <a href="/docs/twitter_sentiment_network_analysis/analysis.pdf" target="info"><span><font size="30" color="red">Write Up and Analysis<br></font></span></a>
+
+        </div>
+        <div id="info">
+            
+        </div>
+    </body>
+
+<!--include jquery & backstretch-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.backstretch.min.js"></script>
+
+
+</body>	
+</html>
