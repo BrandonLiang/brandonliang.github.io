@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>Xudong Liang (Brandon) - Twitter Sentiment & Network Analysis</title>
+                <!-- link to main stylesheet -->
+                <link rel="stylesheet" type="text/css" href="/css/main.css">
+        </head>
+        <body>
+                <h1>Xudong Liang (Brandon)</h1>
+                <nav>
+                <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="./docs/Xudong Liang (Brandon) Resume.pdf">Resume</a></li>
+                        <li><a href="./experience.html">Experience</a></li>
+                        <li><a href="./portfolio.html">Portfolio</a></li>
+                        <li><a href="./twitter.html">Twitter Sentiment & Network Analysis</a></li>                                                                                   
+                        <li><a href="./nba.html">NBA Analytics</a></li>
+                        <li><a href="./nlp.html">NLP Resource</a></li>
+                        <li><a href="https://www.linkedin.com/in/xudong-brandon-liang/">LinkedIn</a></li>
+                        <li><a href="https://github.com/brandonliang">Github</a></li>
+                        <li><a href="mailto:xl2891@columbia.edu">Email</a></li>
+                </ul>
+                </nav>
+                <div class="container">
+                <div class="blurb">
+                        <h2>Twitter Sentiment and Network Analysis</h2>
+<!-- swap out for information about yourself -->
+    <p><font size = "5" color = "black">The 2016 U.S. Presidential Election was an election heavily discussed on social media. With the rapid emergence of social media in the past decade, online users have easier and easier access to publicly display their opinions. On a subject matter like this, social media is second to none when it comes to examining public sentiments toward the two presidential candidates and the election outcome.Thus, the objectives are to quantitatively measure and examine reactions on 2016 Election from social media and to comparesuch reactions before and after the election result. The social media of choice is Twitter, since it is the most commonly used social media platform for brief comments. My approach is to use Twitter API to scrape tweets on 3 different hash-tags: #Election, #Hillary and #Trump, before and after the election night of November 8th, 2016. This would produce a total of 6 different datasets and graphs. 
+    </font></p>
+    <p><font size = "5" color = "black">
+    In the graphs, each node represents a twitter user and each edge represents a retweet from the source node (the user who retweets) to the destination node (the author of the original tweet) where the destination node is usually larger because the size of the node is proportional to how many times its tweets have been retweeted. Each tweet (along with its source node) is colored based on its sentiment score, evaluated by NLTK (I have included a legend for the sentiment score color mapping in the write-up analysis in the bottom). Please click on each of the links below to see the interactive graph demo.</font></p>
+
+        <div id="navigation">
+            <a href="https://github.com/BrandonLiang/Twitter_Sentiment_Network_Analysis_2016Election" target="info"><span><font size="30" color="purple">Data on Github<br></font></span></a>
+
+            <a href="docs/twitter_sentiment_network_analysis/Election_Before.html" target="info" font="20"><span><font size="30" color="red">Tweets on #Election before Election<br></font></span></a> 
+            <a href="docs/twitter_sentiment_network_analysis/Election_After.html" target="info"><span><font size="30" color="green">Tweets on #Election after Election<br></font></span></a> 
+            <a href="docs/twitter_sentiment_network_analysis/Trump_Before.html" target="info"><span><font size="30" color="blue">Tweets on #Trump before Election<br></font></span></a>
+            <a href="docs/twitter_sentiment_network_analysis/Trump_After.html" target="info"><span><font size="30" color="brown">Tweets on #Trump after Election<br></font></span></a>
+            <a href="docs/twitter_sentiment_network_analysis/Hillary_Before.html" target="info"><span><font size="30" color="purple">Tweets on #Hillary before Election<br></font></span></a>
+            <a href="docs/twitter_sentiment_network_analysis/Hillary_After.html" target="info"><span><font size="30" color="orange">Tweets on #Hillary after Election<br></font></span></a>
+            <a href="docs/twitter_sentiment_network_analysis/analysis.pdf" target="info"><span><font size="30" color="red">Write Up and Analysis<br></font></span></a>
+
+        </div>
+        <div id="info">
+            
+        </div>
+
+<!--include jquery & backstretch-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.backstretch.min.js"></script>
+
+        </body>
+
+
+
+
+</html>
