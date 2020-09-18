@@ -1,0 +1,140 @@
+almshouse_register_site_code,site_description,site_general,public_health_site_code
+ah,Almshouse,Bellevue Complex,PHS1
+hah,Almshouse Hospital,Bellevue Complex,PHS1
+garret,Bellevue Garret,Bellevue Complex,PHS1
+garret 38,Bellevue Garret,Bellevue Complex,PHS1
+garret 46,Bellevue Garret,Bellevue Complex,PHS1
+chapel,Bellevue Hospital Chapel,Bellevue Complex,PHS1
+chapel h 24,Bellevue Hospital Chapel,Bellevue Complex,PHS1
+h 45,Hosital Ward 45,Bellevue Complex,PHS1
+h,Hospital,Bellevue Complex,PHS1
+h died,Hospital Morgue,Bellevue Complex,PHS1
+h 11,Hospital Ward 11,Bellevue Complex,PHS1
+h 12,Hospital Ward 12,Bellevue Complex,PHS1
+13,Hospital Ward 13,Bellevue Complex,PHS1
+h 130,Hospital Ward 13,Bellevue Complex,PHS1
+h 14,Hospital Ward 14,Bellevue Complex,PHS1
+15,Hospital Ward 15,Bellevue Complex,PHS1
+h 15,Hospital Ward 15,Bellevue Complex,PHS1
+16,Hospital Ward 16,Bellevue Complex,PHS1
+h 16,Hospital Ward 16,Bellevue Complex,PHS1
+h 16,Hospital Ward 16,Bellevue Complex,PHS1
+h 17,Hospital Ward 17,Bellevue Complex,PHS1
+h 17,Hospital Ward 17,Bellevue Complex,PHS1
+18,Hospital Ward 18,Bellevue Complex,PHS1
+h 18,Hospital Ward 18,Bellevue Complex,PHS1
+h 2,Hospital Ward 2,Bellevue Complex,PHS1
+21,Hospital Ward 21,Bellevue Complex,PHS1
+22,Hospital Ward 22,Bellevue Complex,PHS1
+h 22,Hospital Ward 22,Bellevue Complex,PHS1
+24/res'd,Hospital Ward 24,Bellevue Complex,PHS1
+h 24,Hospital Ward 24,Bellevue Complex,PHS1
+26,Hospital Ward 26,Bellevue Complex,PHS1
+28,Hospital Ward 28,Bellevue Complex,PHS1
+h 29,Hospital Ward 29,Bellevue Complex,PHS1
+h 29,Hospital Ward 29,Bellevue Complex,PHS1
+h 3,Hospital Ward 3,Bellevue Complex,PHS1
+h 30,Hospital Ward 30,Bellevue Complex,PHS1
+h 30,Hospital Ward 30,Bellevue Complex,PHS1
+32,Hospital Ward 32,Bellevue Complex,PHS1
+34,Hospital Ward 34,Bellevue Complex,PHS1
+35,Hospital Ward 35,Bellevue Complex,PHS1
+36,Hospital Ward 36,Bellevue Complex,PHS1
+38,Hospital Ward 38,Bellevue Complex,PHS1
+h 38,Hospital Ward 38,Bellevue Complex,PHS1
+h 38,Hospital Ward 38,Bellevue Complex,PHS1
+39,Hospital Ward 39,Bellevue Complex,PHS1
+h 39,Hospital Ward 39,Bellevue Complex,PHS1
+h 4,Hospital Ward 4,Bellevue Complex,PHS1
+42,Hospital Ward 42,Bellevue Complex,PHS1
+45,Hospital Ward 45,Bellevue Complex,PHS1
+46,Hospital Ward 46,Bellevue Complex,PHS1
+h 47,Hospital Ward 47,Bellevue Complex,PHS1
+h 5,Hospital Ward 5,Bellevue Complex,PHS1
+h 6,Hospital Ward 6,Bellevue Complex,PHS1
+h 6,Hospital Ward 6,Bellevue Complex,PHS1
+h 7,Hospital Ward 7,Bellevue Complex,PHS1
+8,Hospital Ward 8,Bellevue Complex,PHS1
+h 8,Hospital Ward 8,Bellevue Complex,PHS1
+h 9,Hospital Ward 9,Bellevue Complex,PHS1
+h 9,Hospital Ward 9,Bellevue Complex,PHS1
+h w,Hospital Women's Ward,Bellevue Complex,PHS1
+h ww,Hospital Women's Ward,Bellevue Complex,PHS1
+17,Hosptial Ward 17,Bellevue Complex,PHS1
+sh,Shanty,Bellevue Complex,PHS1
+shanty,Shanty,Bellevue Complex,PHS1
+shanty 1,Shanty 1,Bellevue Complex,PHS1
+shanty 18,Shanty 18,Bellevue Complex,PHS1
+shanty 38,Shanty 38,Bellevue Complex,PHS1
+shanty 6,Shanty 6,Bellevue Complex,PHS1
+shanty 8,Shanty 8,Bellevue Complex,PHS1
+ah bi,Almshouse on Blackwell's Island,Blackwell's Island,PHS2
+bi,Blackwell's Island,Blackwell's Island,PHS2
+bi,Blackwell's Island,Blackwell's Island,PHS2
+bi shanty,Blackwell's Island Shanty,Blackwell's Island,PHS2
+10 bi,Blackwell's Island Ward 10,Blackwell's Island,PHS2
+11 bi,Blackwell's Island Ward 11,Blackwell's Island,PHS2
+bi 11,Blackwell's Island Ward 11,Blackwell's Island,PHS2
+16 bi,Blackwell's Island Ward 16,Blackwell's Island,PHS2
+17 bi,Blackwell's Island Ward 17,Blackwell's Island,PHS2
+18 bi,Blackwell's Island Ward 18,Blackwell's Island,PHS2
+18 bi,Blackwell's Island Ward 18,Blackwell's Island,PHS2
+bi 19,Blackwell's Island Ward 19,Blackwell's Island,PHS2
+25 bi,Blackwell's Island Ward 25,Blackwell's Island,PHS2
+35 bi,Blackwell's Island Ward 35,Blackwell's Island,PHS2
+bi 35,Blackwell's Island Ward 35,Blackwell's Island,PHS2
+bi 38,Blackwell's Island Ward 38,Blackwell's Island,PHS2
+bi 39,Blackwell's Island Ward 39,Blackwell's Island,PHS2
+bi 4,Blackwell's Island Ward 4,Blackwell's Island,PHS2
+bi 5,Blackwell's Island Ward 5,Blackwell's Island,PHS2
+bi 5,Blackwell's Island Ward 5,Blackwell's Island,PHS2
+5 bi,Blackwell's Island Ward 5,Blackwell's Island,PHS2
+6 bi,Blackwell's Island Ward 6,Blackwell's Island,PHS2
+bi 6,Blackwell's Island Ward 6,Blackwell's Island,PHS2
+bi 63,Blackwell's Island Ward 63,Blackwell's Island,PHS2
+7 bi,Blackwell's Island Ward 7,Blackwell's Island,PHS2
+bi 8,Blackwell's Island Ward 8,Blackwell's Island,PHS2
+bi w,Blackwell's Island Workhouse (?),Blackwell's Island,PHS2
+h bi,Hospital Blackwell's Island,Blackwell's Island,PHS2
+h bi,Hospital on Blackwell's Island,Blackwell's Island,PHS2
+la bi,Lunatic Asylum Blackwell's Island,Blackwell's Island,PHS2
+li,Long Island Farms,Long Island,PHS3
+la,Lunatic Asylum,Lunatic Asylum,PHS4
+sa,Lunatic Asylum (?),Lunatic Asylum,PHS4
+la 16,Lunatic Asylum Ward 16,Lunatic Asylum,PHS4
+la 18,Lunatic Asylum Ward 18,Lunatic Asylum,PHS4
+la 19,Lunatic Asylum Ward 19,Lunatic Asylum,PHS4
+la 28,Lunatic Asylum Ward 28,Lunatic Asylum,PHS4
+la 36,Lunatic Asylum Ward 36,Lunatic Asylum,PHS4
+la 38,Lunatic Asylum Ward 38,Lunatic Asylum,PHS4
+la 5,Lunatic Asylum Ward 5,Lunatic Asylum,PHS4
+for randalls i,Randall's Island,Randall's Island,PHS5
+r island,Randall's Island,Randall's Island,PHS5
+r. ind.,Randall's Island,Randall's Island,PHS5
+ri,Randall's Island,Randall's Island,PHS5
+rin,Randall's Island,Randall's Island,PHS5
+ri 17,Randall's Island Ward 17,Randall's Island,PHS5
+ri 38,Randall's Island Ward 38,Randall's Island,PHS5
+ri 6,Randall's Island Ward 6,Randall's Island,PHS5
+ri 8,Randall's Island Ward 8,Randall's Island,PHS5
+cell m 2,CHECK,,
+ft,CHECK,,
+h crix,CHECK,,
+k,CHECK,,
+li 38,CHECK,,
+m,CHECK,,
+mw,CHECK,,
+n,CHECK,,
+no.,CHECK,,
+no.38,CHECK,,
+nw,CHECK,,
+phbt,CHECK,w,
+qij,CHECK,,
+shems(?),CHECK,,
+sj,CHECK,,
+sj 18,CHECK,,
+sph,CHECK,,
+w,CHECK,,
+yj,CHECK,,
+c. home,Children's Home,,
+wh,Women's Hospital,,

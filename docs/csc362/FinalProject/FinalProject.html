@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<meta charset="utf-8"/>
+<html>
+    <head>
+        <title>Final Project</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript" src="js/libs/d3/d3.js"></script>
+        <script type="text/javascript" src="js/libs/d3/d3.v3.js"></script>
+        <script type="text/javascript" src="js/libs/d3/d3.v3.min.js"></script>
+        <script type="text/javascript" src="js/libs/d3/colorbrewer.js"></script>
+        <script type="text/javascript" src="js/libs/d3/fisheye.js"></script>
+        <script type="text/javascript" src="js/libs/d3/d3.slider.js"></script>
+        <link href="general.css" rel="stylesheet">
+    </head>
+    <body>
+    	<font color="red">Final Project: Interaction Between NBA Team, Player and Stats</font></br>
+    	<a href="writeup.html">Write Up of Visualization</a></br>(Notice that due to large data and code, it may take a while to fully load the web page. If the three dropdown menus are blank to begin with, refresh the page until they all show texts.)</br>   
+    	<div><input id="targetNode" name="targetNode" type="text" value="" />
+    <button onclick="search()">Type Player Name (No Space i.e:"StephenCurry") and Click to Highlight</button>
+    <button onclick="unhighlight()">Click to Unhighlight</button></div>	
+        <script type="text/javascript" src="basketball.js"></script>
+	<div id="cluster"><input id="inputFG" name="inputFG" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Field Goal for player clustering (0 ~ 1)</button>
+    <input id="inputFGP" name="inputFGP" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Field Goal % for player clustering (0 ~ 1)</button></br>
+    <input id="input3P" name="input3P" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of 3-Pointer for player clustering (0 ~ 1)</button>
+    <input id="input2P" name="input2P" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of 2-Pointer for player clustering (0 ~ 1)</button></br>
+    <input id="input2PP" name="input2PP" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of 2-Pointer % for player clustering (0 ~ 1)</button>
+    <input id="inputEFGP" name="inputEFGP" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Effective Field Goal % for player clustering (0 ~ 1)</button></br>
+    <input id="inputFT" name="inputFT" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Free Throw for player clustering (0 ~ 1)</button>
+    <input id="inputFTP" name="inputFTP" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Free Throw % for player clustering (0 ~ 1)</button></br>
+    <input id="inputORB" name="inputORB" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Offensive Rebound for player clustering (0 ~ 1)</button>
+    <input id="inputDRB" name="inputDRB" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Defensive Rebound for player clustering (0 ~ 1)</button></br>
+    <input id="inputTRB" name="inputTRB" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Total Rebound for player clustering (0 ~ 1)</button>
+    <input id="inputAST" name="inputAST" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Assist for player clustering (0 ~ 1)</button></br>
+    <input id="inputSTL" name="inputSTL" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Steal for player clustering (0 ~ 1)</button>
+    <input id="inputBLK" name="inputBLK" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Block for player clustering (0 ~ 1)</button></br>
+    <input id="inputTOV" name="inputTOV" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Turnover for player clustering (0 ~ 1)</button>
+    <input id="inputPF" name="inputPF" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Personal Foul for player clustering (0 ~ 1)</button></br>
+    <input id="inputPTS" name="inputPTS" type="text" value="0.1" />
+    <button onclick="input()">Submit weight of Points for player clustering (0 ~ 1)</button>
+    </div>
+    </body>
+</html>
