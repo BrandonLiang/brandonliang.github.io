@@ -11,6 +11,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin-right: 20px;
     font-size: 1.3em;
 }
@@ -36,19 +37,23 @@ h3 {
 }
 p {
     font-size: 1.2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: .8em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.8em;
 }
 
 ul.posts li {
     list-style: none;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
